@@ -1,0 +1,6 @@
+.vehicleCard{
+    transition: margin-top 0.1s ease-in-out
+}
+.vehicleCard:hover {
+    margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+.loginForm, .externalButtons{
+    padding:0 20% ;
+    text-align: center;
+}
+.externalButtons button, .loginForm input{
+    display: block;
+    margin-top: 20px;
+    width: 100%;
+    
+}
+.userInput{
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    outline: none;
+}
+
+
+.formType{
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+.formCard{
+    margin: 5% 20%;
+    padding: 5% 0;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
