@@ -2,8 +2,8 @@
 ## Node-mongo-react
 ### CRUD System
 
-[Github repo for client](https://github.com/Porgramming-Hero-web-course/complete-website-client-ShahbajKhan).
-[Github repo for Server](https://github.com/Porgramming-Hero-web-course/complete-website-server-ShahbajKhan).
+[Github repo for client](https://github.com/ShahbajKhan/mama-jaben-rideSharing).
+[Github repo for Server](https://github.com/ShahbajKhan/mama-jaben-serverSide).
 [Heroku Repo for Server](https://guarded-dawn-98055.herokuapp.com/).
 
 [Live link-firebase](https://mama-jaben.web.app/)
